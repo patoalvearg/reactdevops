@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Vite + React APLICACION UTILIZANDO DEVOPS</h1>
-      <h2>PROBANDO EL DESPLEIGUE AUTOMATICO</h2>
+      <h2>PROBANDO EL  AUTOMATICO</h2>
       <h3>TEXTO DE PRUEBA AZURE</h3>
       <p>APPLICACION DE REACT CON SURGE</p>
       <div className="card">
