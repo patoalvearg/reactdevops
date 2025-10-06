@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'appprueba'
           slot-name: 'Production'
-          package: './react-app'
+          package: './reactdevops'
