@@ -55,6 +55,6 @@ jobs:
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
-          app-name: 'reactdevops'
+          app-name: 'appprueba'
           slot-name: 'Production'
           package: './vite-app'
